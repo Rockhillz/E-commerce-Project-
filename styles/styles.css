@@ -10,3 +10,57 @@
     width: 150px;
     padding-left: 50px !important;
 }
+
+.hero-img {
+    height: 500px !important;
+}
+
+.nav-bar {
+    background-color: white;
+}
+
+.list-content {
+    justify-content: center !important;
+}
+
+/* Headings Style  */
+.headline {
+    font-weight: 700;
+    font-size: 40px;
+}
+
+/* cattegory */
+.cat {
+    display: flex !important;
+    justify-content: space-between;
+
+}
+
+.cat-arrow {
+    margin-left: 5px;
+    width: 30px;
+    height: 30px;
+    justify-content: center;
+    display: inline-block;
+    border-radius: 9px;
+    border: 1px solid grey;
+    background-color: white;
+}
+
+.cat-arrow:hover {
+    background-color: #F9DCD1;
+    color: white;
+}
+
+.box {
+    /* border: 1px solid black; */
+    margin: 5px;
+}
+
+.cat-icon {
+    padding-top: 30px;
+    font-size: 50px;
+    color: #F9DCD1;
+}
+
+/* Product */
