@@ -26,7 +26,7 @@
 /* Headings Style  */
 .headline {
     font-weight: 700;
-    font-size: 40px;
+    font-size: 30px;
 }
 
 /* cattegory */
@@ -64,3 +64,20 @@
 }
 
 /* Product */
+
+
+/* Trying to twerk new nav bar
+.cart-num {
+    font-size: 12px !important;
+    padding: 3px 6px !important;
+}
+.nav-icon {
+    font-size: 20px !important;
+} */
+
+
+/* When you hover on a like or a heart in the product section it turns red */
+.heart-eye:hover {
+    color: rgb(226, 86, 86);
+}
+
