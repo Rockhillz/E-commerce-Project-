@@ -81,3 +81,9 @@
     color: rgb(226, 86, 86);
 }
 
+/* New Arrivals */
+.text {
+    font-size: 12px;
+    font-weight: 700;
+    color: grey;
+}
