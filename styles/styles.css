@@ -85,5 +85,16 @@
 .text {
     font-size: 12px;
     font-weight: 700;
-    color: grey;
+    color: grey !important;
+}
+
+.img-bg {
+    background-color: rgb(231, 228, 228);
+}
+
+/* Discount */
+
+.n {
+    color: pink;
+    color: #F7C9D3;
 }
