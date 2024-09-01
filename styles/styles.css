@@ -94,7 +94,15 @@
 
 /* Discount */
 
-.n {
-    color: pink;
-    color: #F7C9D3;
+.discolor {
+    background-color: #F7C9D3;
+}
+
+.sizing {
+    padding-left: 80px !important;
+    margin-top: 60px !important;
+}
+
+.Discount-margin {
+    margin-top: 100px;
 }
