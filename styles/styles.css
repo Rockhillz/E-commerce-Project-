@@ -66,16 +66,6 @@
 /* Product */
 
 
-/* Trying to twerk new nav bar
-.cart-num {
-    font-size: 12px !important;
-    padding: 3px 6px !important;
-}
-.nav-icon {
-    font-size: 20px !important;
-} */
-
-
 /* When you hover on a like or a heart in the product section it turns red */
 .heart-eye:hover {
     color: rgb(226, 86, 86);
@@ -106,3 +96,40 @@
 .Discount-margin {
     margin-top: 100px;
 }
+
+/* 3 Box section  */
+
+.card-box {
+    width: 234px !important;
+    height: 169px !important;
+}
+
+.color-bg {
+    background-color: #FAF4F1;
+    margin-top: 100px;
+}
+
+.cardify {
+    /* height: 294px !important; */
+    width: 200px !important;
+}
+
+.cardify-p {
+    font-size: 10px !important;
+}
+
+.cardify-h {
+    font-size: 15px !important;
+}
+
+.card-img-box {
+    padding: 10px !important;
+}
+
+/* footer  */
+.foott a {
+    text-decoration: none !important;
+}
+
+
+
